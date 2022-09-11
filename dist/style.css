@@ -71,16 +71,6 @@
   margin-right: 40px;
 }
 
-html, body {
-  font-family: "Montserrat", sans-serif;
-  font-size: 12px;
-  background: ;
-  color: #D2D2D2;
-  width: 414px;
-  font-weight: 600;
-  margin: 8px auto;
-  padding: 16px;
-}
 
 * {
   box-sizing: border-box;
