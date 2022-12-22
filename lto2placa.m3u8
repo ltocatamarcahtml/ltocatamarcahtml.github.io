@@ -1,0 +1,11 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:17
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:16.666667,
+https://ltocatamarcahtml.github.io/chunck/lto-2-off-air0.ts
+#EXTINF:8.333333,
+https://ltocatamarcahtml.github.io/chunck/lto-2-off-air1.ts
+#EXTINF:5.033333,
+https://ltocatamarcahtml.github.io/chunck/lto-2-off-air2.ts
+#EXT-X-ENDLIST
